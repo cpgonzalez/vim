@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/hugogonzalez'
-let g:netrw_dirhist_2='/Users/hugogonzalez/.vim'
-let g:netrw_dirhist_3='/Users/hugogonzalez/.vim/configbackup'
-let g:netrw_dirhist_4='/Users/hugogonzalez/.vim'
-let g:netrw_dirhist_5='/Users/hugogonzalez'
-let g:netrw_dirhist_6='/Users/hugogonzalez/.vim'
-let g:netrw_dirhist_7='/Users/hugogonzalez/.vim/configbackup'
-let g:netrw_dirhist_8='/Users/hugogonzalez/.vim'
-let g:netrw_dirhist_9='/Users/hugogonzalez'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/hugogonzalez/go_projects/src/UserServer'
