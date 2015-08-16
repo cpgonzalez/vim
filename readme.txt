@@ -12,4 +12,6 @@ vimrc and tmux.conf copies are placed in this root directory as back ups to rest
 
 remember to reload tmux config with the command:
 
+http://fideloper.com/mac-vim-tmux
+
 tmux source-file ~/.tmux.conf
