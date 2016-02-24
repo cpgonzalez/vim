@@ -13,6 +13,7 @@ alias hrld='source ~/.bash_profile' # reload bash_profile
 alias hos='lsb_release -a'          # find os version
 alias ta='tmux attach -t hg3'
 alias tn='tmux new -s hg3'
+alias gg='git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"'
 ##Alias List End##
 
 ##Functions##
